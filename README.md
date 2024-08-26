@@ -1,2 +1,2 @@
 # pandas
-Test Pandas Library and commands
+Test Pandas Library
